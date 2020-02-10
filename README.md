@@ -1,0 +1,3 @@
+# Javascript-scripts
+All The scripts made in javascripts will be posted here...
+Enjoy :)
